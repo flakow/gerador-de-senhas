@@ -11,4 +11,4 @@ COMANDOS PARA INSTALAR Numpy E O Pyfiglet:
    
 
 
-<img src = "C:\Users\colhe\OneDrive\Documentos\PROJETOS PYTHON\print1.PNG">
+<img src="https://i.ibb.co/tQs6DTC/print1.png" alt="print1" border="0" />
